@@ -2,7 +2,9 @@
 Udacity Data Analyst Degree - Project III
 
 ## Overview
-In this project, I will go through the data analysis process to investigate The Movie Database (TMDb) which contains various information about movies such as their genres, runtime, budget etc. 
+The goal of this project is to investigate a dataset of appointment records for Brasil public hospitals. The data includes some attributes of patients and states if the patients showed up to appointments. The analysis should be focused on finding trends influencing patients to show or not show up to appointments.
+
+The original problem description and data set can be found here: https://www.kaggle.com/joniarroba/noshowappointments/home
 
 ## What Software Do I Need?
 
